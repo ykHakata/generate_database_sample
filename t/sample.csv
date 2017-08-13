@@ -1,0 +1,7 @@
+ID,ログインID,ログインパスワード,管理者権限,削除フラグ,登録日時,修正日時
+id,login_id,password,authority,deleted,create_ts,modify_ts
+1,sample.data.system@gmail.com,hackerz,1,0,2016-01-08 12:24:12,2016-01-08 12:24:12
+2,sample.data.sudo@gmail.com,sudo,2,0,2016-01-08 12:24:12,2016-01-08 12:24:12
+3,sample.data.admin@gmail.com,admin,3,0,2016-01-08 12:24:12,2016-01-08 12:24:12
+4,sample.data.general@gmail.com,general,4,0,2016-01-08 12:24:12,2016-01-08 12:24:12
+5,sample.data.guest@gmail.com,guest,5,0,2016-01-08 12:24:12,2016-01-08 12:24:12
