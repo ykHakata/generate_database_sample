@@ -1,0 +1,2 @@
+# generate_database_sample
+データベースへサンプルデータを作成
